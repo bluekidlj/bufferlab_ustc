@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T07:38:55.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ihabvliP1dJmT2Ven9rR" version="15.9.6" type="github">
-  <diagram id="zgZMzWhknfCWd45xqGbZ">
+<mxfile host="app.diagrams.net" modified="2022-01-07T07:50:04.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_5eqgcRx2O0xJCvR7ILs" version="15.9.6" type="github">
+  <diagram id="zgZMzWhknfCWd45xqGbZ" name="Page-1">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dVo0AVZwqWmZZH4SSPmh-2" value="系统安全防护层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;horizontal=1;verticalAlign=middle;align=center;textDirection=ltr;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="80" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="dVo0AVZwqWmZZH4SSPmh-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;红包任务&lt;font style=&quot;font-size: 15px&quot;&gt;管理&lt;/font&gt;层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dVo0AVZwqWmZZH4SSPmh-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dVo0AVZwqWmZZH4SSPmh-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dVo0AVZwqWmZZH4SSPmh-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
